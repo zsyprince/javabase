@@ -1,0 +1,2 @@
+15:15:36,975 INFO  [org.itstack.demo.design.test.ApiTest] 测试结果(拒绝To撤审)：{"code":"0000","info":"撤销审核完成"}
+15:15:36,993 INFO  [org.itstack.demo.design.test.ApiTest] 活动信息：{"activityId":"100001","activityName":"早起学习打卡领奖活动","beginTime":1613978136976,"endTime":1613978136976,"status":"Editing"} 状态："Editing"
